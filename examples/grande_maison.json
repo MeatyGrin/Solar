@@ -1,0 +1,188 @@
+{
+  "dimensions": {
+    "longueur_bras_x": 15.0,
+    "largeur_bras_x": 5.0,
+    "longueur_bras_y": 15.0,
+    "largeur_bras_y": 5.0,
+    "hauteur_mur": 5.0,
+    "hauteur_toit": 2.5,
+    "retrait_faitage": 2.5
+  },
+  "panneaux": [
+    {
+      "x": 2.0,
+      "y": 0.5,
+      "width": 1.65,
+      "height": 1.0,
+      "zone": "sud"
+    },
+    {
+      "x": 4.0,
+      "y": 0.5,
+      "width": 1.65,
+      "height": 1.0,
+      "zone": "sud"
+    },
+    {
+      "x": 6.0,
+      "y": 0.5,
+      "width": 1.65,
+      "height": 1.0,
+      "zone": "sud"
+    },
+    {
+      "x": 8.0,
+      "y": 0.5,
+      "width": 1.65,
+      "height": 1.0,
+      "zone": "sud"
+    },
+    {
+      "x": 10.0,
+      "y": 0.5,
+      "width": 1.65,
+      "height": 1.0,
+      "zone": "sud"
+    },
+    {
+      "x": 12.0,
+      "y": 0.5,
+      "width": 1.65,
+      "height": 1.0,
+      "zone": "sud"
+    },
+    {
+      "x": 2.0,
+      "y": 1.8,
+      "width": 1.65,
+      "height": 1.0,
+      "zone": "sud"
+    },
+    {
+      "x": 4.0,
+      "y": 1.8,
+      "width": 1.65,
+      "height": 1.0,
+      "zone": "sud"
+    },
+    {
+      "x": 6.0,
+      "y": 1.8,
+      "width": 1.65,
+      "height": 1.0,
+      "zone": "sud"
+    },
+    {
+      "x": 8.0,
+      "y": 1.8,
+      "width": 1.65,
+      "height": 1.0,
+      "zone": "sud"
+    },
+    {
+      "x": 10.0,
+      "y": 1.8,
+      "width": 1.65,
+      "height": 1.0,
+      "zone": "sud"
+    },
+    {
+      "x": 12.0,
+      "y": 1.8,
+      "width": 1.65,
+      "height": 1.0,
+      "zone": "sud"
+    },
+    {
+      "x": 2.0,
+      "y": 3.1,
+      "width": 1.65,
+      "height": 1.0,
+      "zone": "sud"
+    },
+    {
+      "x": 4.0,
+      "y": 3.1,
+      "width": 1.65,
+      "height": 1.0,
+      "zone": "sud"
+    },
+    {
+      "x": 6.0,
+      "y": 3.1,
+      "width": 1.65,
+      "height": 1.0,
+      "zone": "sud"
+    },
+    {
+      "x": 8.0,
+      "y": 3.1,
+      "width": 1.65,
+      "height": 1.0,
+      "zone": "sud"
+    },
+    {
+      "x": 0.5,
+      "y": 6.0,
+      "width": 1.0,
+      "height": 1.65,
+      "zone": "ouest"
+    },
+    {
+      "x": 2.0,
+      "y": 6.0,
+      "width": 1.0,
+      "height": 1.65,
+      "zone": "ouest"
+    },
+    {
+      "x": 3.5,
+      "y": 6.0,
+      "width": 1.0,
+      "height": 1.65,
+      "zone": "ouest"
+    },
+    {
+      "x": 0.5,
+      "y": 8.0,
+      "width": 1.0,
+      "height": 1.65,
+      "zone": "ouest"
+    },
+    {
+      "x": 2.0,
+      "y": 8.0,
+      "width": 1.0,
+      "height": 1.65,
+      "zone": "ouest"
+    },
+    {
+      "x": 3.5,
+      "y": 8.0,
+      "width": 1.0,
+      "height": 1.65,
+      "zone": "ouest"
+    },
+    {
+      "x": 0.5,
+      "y": 10.0,
+      "width": 1.0,
+      "height": 1.65,
+      "zone": "ouest"
+    },
+    {
+      "x": 2.0,
+      "y": 10.0,
+      "width": 1.0,
+      "height": 1.65,
+      "zone": "ouest"
+    },
+    {
+      "x": 3.5,
+      "y": 10.0,
+      "width": 1.0,
+      "height": 1.65,
+      "zone": "ouest"
+    }
+  ]
+}

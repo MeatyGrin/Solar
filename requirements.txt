@@ -1,0 +1,16 @@
+# Solar Roof Designer - Dépendances Python
+# Installation: pip install -r requirements.txt
+
+# Visualisation 3D
+pyvista>=0.43.0
+vtk>=9.2.0
+
+# Calculs scientifiques
+numpy>=1.24.0
+
+# Interface graphique (inclus avec Python, mais peut nécessiter tk sur Linux)
+# Sur Ubuntu/Debian: sudo apt-get install python3-tk
+
+# Optionnel mais recommandé
+matplotlib>=3.7.0  # Pour des graphiques supplémentaires
+pillow>=10.0.0     # Pour le traitement d'images

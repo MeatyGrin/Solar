@@ -1,0 +1,41 @@
+{
+  "dimensions": {
+    "longueur_bras_x": 8.0,
+    "largeur_bras_x": 3.0,
+    "longueur_bras_y": 8.0,
+    "largeur_bras_y": 3.0,
+    "hauteur_mur": 3.0,
+    "hauteur_toit": 1.5,
+    "retrait_faitage": 1.5
+  },
+  "panneaux": [
+    {
+      "x": 3.5,
+      "y": 0.5,
+      "width": 1.65,
+      "height": 1.0,
+      "zone": "sud"
+    },
+    {
+      "x": 5.5,
+      "y": 0.5,
+      "width": 1.65,
+      "height": 1.0,
+      "zone": "sud"
+    },
+    {
+      "x": 0.5,
+      "y": 4.0,
+      "width": 1.0,
+      "height": 1.65,
+      "zone": "ouest"
+    },
+    {
+      "x": 0.5,
+      "y": 6.0,
+      "width": 1.0,
+      "height": 1.65,
+      "zone": "ouest"
+    }
+  ]
+}
