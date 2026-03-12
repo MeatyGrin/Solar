@@ -159,7 +159,7 @@ def exemple_5_gui():
 
 if __name__ == "__main__":
     print("╔══════════════════════════════════════════════════════════╗")
-    print("║   🏠☀️  SOLAR ROOF DESIGNER - GUIDE DE DÉMARRAGE       ║")
+    print("║   🏠☀️  SOLAR ROOF DESIGNER - GUIDE DE DÉMARRAGE         ║")
     print("╚══════════════════════════════════════════════════════════╝\n")
     
     # Menu interactif
