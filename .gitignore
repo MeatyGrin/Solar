@@ -1,0 +1,119 @@
+# =========================
+# 🐍 Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Fichiers compilés
+*.so
+*.pyd
+*.dll
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# =========================
+# 📦 Environnements virtuels (NE PAS PUSH)
+# =========================
+venv/
+.env/
+.venv/
+env/
+ENV/
+
+# =========================
+# 📚 Librairies installées
+# =========================
+site-packages/
+
+# =========================
+# 🧪 Tests / Coverage
+# =========================
+.coverage
+coverage.xml
+htmlcov/
+.pytest_cache/
+
+# =========================
+# 🧠 IDE / Éditeurs
+# =========================
+
+# VS Code
+.vscode/
+
+Lib/
+
+# PyCharm / IntelliJ
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# =========================
+# 🖥️ OS
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# 📊 Logs & temporaires
+# =========================
+*.log
+*.tmp
+*.bak
+
+# =========================
+# 🧱 PyVista / VTK / fichiers 3D
+# =========================
+*.vtk
+*.vtp
+*.vtu
+*.obj
+*.stl
+*.ply
+*.glb
+*.gltf
+
+# =========================
+# 🖼️ Images générées
+# =========================
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.tiff
+
+# (Optionnel : si tu veux garder certaines images, commente cette section)
+
+# =========================
+# 📄 Exports / résultats
+# =========================
+exports/
+output/
+results/
+
+# =========================
+# 📑 Fichiers locaux config
+# =========================
+.env.local
+config.local.json
+
+# =========================
+# 📦 Cache matplotlib
+# =========================
+.matplotlib/
+
+# =========================
+# 📁 Données lourdes (si tu en ajoutes)
+# =========================
+data/
+datasets/
+
+# =========================
+# 🧾 Fichiers système Tkinter (rare mais possible)
+# =========================
+*.tcl

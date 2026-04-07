@@ -28,8 +28,8 @@ Installation et premiers pas avec Solar Roof Designer
 # python solar_roof_designer.py
 
 # Méthode 2 : Utiliser en mode programmation
-from solar_roof_designer import ModeleToitL, DimensionsToit, Panneau, InterfaceGraphique
-from advanced_features import OptimiseurPanneaux, ExporteurRapport, GestionnaireTemplates
+from backend.solar_roof_designer import ModeleToitL, DimensionsToit, Panneau, InterfaceGraphique
+from backend.advanced_features import OptimiseurPanneaux, ExporteurRapport, GestionnaireTemplates
 
 
 # ═══════════════════════════════════════════════════════════════

@@ -1,0 +1,16 @@
+Solar
+│   README.md
+│   requirements.txt
+│   tree.txt
+├───backend
+│       advanced_features.py
+│       solar_roof_designer.py
+│       
+├───examples
+│       grande_maison.json
+│       maison_moyenne.json
+│       petite_maison.json
+│
+├───frontend
+└───help
+        guide_demarrage.py

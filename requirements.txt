@@ -14,3 +14,16 @@ numpy>=1.24.0
 # Optionnel mais recommandé
 matplotlib>=3.7.0  # Pour des graphiques supplémentaires
 pillow>=10.0.0     # Pour le traitement d'images
+
+
+# Solar System Designer – dépendances Python
+# Tkinter est inclus dans la bibliothèque standard Python (>= 3.8)
+# Aucune dépendance externe nécessaire pour le frontend de base.
+
+# Optionnel – pour les futures fonctionnalités backend :
+# numpy>=1.24          # calculs irradiance / pertes
+# pandas>=2.0          # manipulation données météo (CSV/EPW)
+# pvlib>=0.10          # librairie PV open-source (simulation)
+# matplotlib>=3.7      # graphiques avancés (intégration Tkinter via FigureCanvasTkAgg)
+# reportlab>=4.0       # génération PDF rapports
+# openpyxl>=3.1        # export Excel
